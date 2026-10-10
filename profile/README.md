@@ -86,6 +86,6 @@ Interested in piloting PayRaider on your corridors? Open an issue in [payraider-
 
 <div align="center">
 
-<sub>Open source under the Apache 2.0 license.</sub>
+<sub>Proprietary software. All rights reserved. The code is visible for review only and may not be used, copied or distributed without written permission from PayRaider.</sub>
 
 </div>
